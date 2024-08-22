@@ -68,10 +68,6 @@ CSS3 - For styling the components.
 HTML5 - For structuring the app.
 
 
-🎯 Real-World Applications
-
-TextUtils can be used in various real-world scenarios:
-
 ## 🎯 Real-World Applications
 
 TextUtils can be applied in various scenarios, such as:
